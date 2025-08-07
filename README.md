@@ -17,6 +17,8 @@ Data Processing: Apache Spark, Delta Live Tables
 
 ## 🏗️ Project Architecture
 The project implements a modern data lakehouse architecture with the following components:
+<img width="956" height="559" alt="image" src="https://github.com/user-attachments/assets/c6a30fa6-ad9e-4a47-813a-6338c46fce8c" />
+
 
 
 ## ✨ Key Features
